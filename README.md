@@ -17,14 +17,20 @@
     + scikit-learn để xây dựng mô hình phân khúc khách hàng
 - Jupyter Notebook để trình bày code, kết quả và kết luận 
 
-## 4) Dashboard
+## 4) Phương pháp:
+
+- Xử lý dữ liệu bị thiếu, bị lặp và các dòng có quantity âm.
+- Tạo thêm các features mới để tính toán như TotalRevenue, Recency, Frequency, Monetary.
+- Sử dụng K-means để phân khúc khách hàng 
+
+## 5) Dashboard
 
 - Sử dụng Power BI để trình bày sâu hơn về dữ liệu. Link Power BI Service: https://app.powerbi.com/links/aM35kkihLh?ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&pbi_source=linkShare
 
 - Một vài hình ảnh về Dashboard:
-![Dashboard](PowerBI - Dashboarad/Images/Overview.png)
-![Dashboard](PowerBI - Dashboarad/Images/RFM-Cluster.png)
-![Dashboard](PowerBI - Dashboarad/Images/Cluster-Revenue.png)
+![PowerBI - Dashboarad](Images/Overview.png)
+![PowerBI - Dashboarad](Images/RFM-Cluster.png)
+![PowerBI - Dashboarad](Images/Cluster-Revenue.png)
 
 ## 5) Kết quả dự án
 
