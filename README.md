@@ -28,9 +28,9 @@
 - Sử dụng Power BI để trình bày sâu hơn về dữ liệu. Link Power BI Service: https://app.powerbi.com/links/aM35kkihLh?ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&pbi_source=linkShare
 
 - Một vài hình ảnh về Dashboard:
-![Page 1](PowerBI - Dashboard/Images/Overview.png)
-![Page 2](PowerBI - Dashboard/Images/RFM-Cluster.png)
-![Page 3](PowerBI - Dashboard/Images/Cluster-Revenue.png)
+![Page 1](Dashboard/Images/Overview.png)
+![Page 2](Dashboard/Images/RFM-Cluster.png)
+![Page 3](Dashboard/Images/Cluster-Revenue.png)
 
 ## 6) Kết quả dự án
 
