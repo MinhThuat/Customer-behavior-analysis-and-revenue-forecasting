@@ -30,7 +30,7 @@
 - Một vài hình ảnh về Dashboard:
 ![Page 1](Dashboard/Images/Overview.png)
 ![Page 2](Dashboard/Images/RFM-Cluster.png)
-![Page 3](Dashboard/Images/Cluster-Revenue.png)
+![Page 3](Dashboard/Images/Strategy_Impact.png)
 
 ## 6) Kết quả dự án
 
