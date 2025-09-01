@@ -28,11 +28,11 @@
 - Sử dụng Power BI để trình bày sâu hơn về dữ liệu. Link Power BI Service: https://app.powerbi.com/links/aM35kkihLh?ctid=40127cd4-45f3-49a3-b05d-315a43a9f033&pbi_source=linkShare
 
 - Một vài hình ảnh về Dashboard:
-![PowerBI - Dashboarad](Images/Overview.png)
-![PowerBI - Dashboarad](Images/RFM-Cluster.png)
-![PowerBI - Dashboarad](Images/Cluster-Revenue.png)
+![PowerBI - Dashboard](Images/Overview.png)
+![PowerBI - Dashboard](Images/RFM-Cluster.png)
+![PowerBI - Dashboard](Images/Cluster-Revenue.png)
 
-## 5) Kết quả dự án
+## 6) Kết quả dự án
 
 - Phân khúc khách hàng trong bộ dữ liệu thành 3 nhóm. Nhóm Leave, Potential and Stable, VIP. Từng nhóm sẽ có những chiến dịch phù hợp khác nhau để có thể gia tăng doanh số.
 
